@@ -1,0 +1,20 @@
+{
+  "name": "ppenj27",
+  "version": "1.0.0", 
+  "description": "Develop a utility for sending transactional emails in Node.js applications. It could support features like HTML email templates, attachment handling, email scheduling, and delivery tracking.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankboris051/ppenj27.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
